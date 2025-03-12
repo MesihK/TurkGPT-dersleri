@@ -1,6 +1,6 @@
 ### Sıfırdan ChatGPT Geliştiriyoruz!
 
-Bu repository, kanalındaki video serisinde kullandığım kodları içerir.
+Bu repository Sıfırdan ChatGPT video serisinde kullandığım kodları içerir.
 
 ### Dersler
 
