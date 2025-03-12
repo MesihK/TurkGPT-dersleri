@@ -9,3 +9,4 @@ Bu repository, kanalındaki video serisinde kullandığım kodları içerir.
 * **Ders 3:** Basit bir modeli (XOR) elle hesaplayalım
 * **Ders 4:** Sıfırdan ChatGPT tokenizer yazalım.
 * **Ders 5:** Eğitim datası oluşturalım, tokenizer eğitelim.
+* **Ders 6:** Transformer ve Attention mimarisine yakından bakalım
